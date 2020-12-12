@@ -11,8 +11,6 @@ CarolinaPowerSupply carolinaPowerSupply;
 
 void setup() {
   carolinaPowerSupply.setup();
-
-
 }
 
 void loop() {
